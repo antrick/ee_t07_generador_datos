@@ -17,7 +17,7 @@ public class Aleatorios
     
       ListaDobleLigada names=new ListaDobleLigada();
       ListaDobleLigada apP=new ListaDobleLigada();
-      ListaDobleLigada apM=new ListaDobleLigada(); /***/
+      ListaDobleLigada apM=new ListaDobleLigada(); /**declaramos listas doblemente ligadas para almacenar datos*/
       ListaDobleLigada dir=new ListaDobleLigada();
       ListaDobleLigada eda=new ListaDobleLigada();
       
