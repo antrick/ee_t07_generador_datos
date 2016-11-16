@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 public class Aleatorios
 {
   public void NuevosNombres(){
-      int crea=Integer.parseInt(JOptionPane.showInputDialog("cantidad de datos a crear "));
+      int crea=Integer.parseInt(JOptionPane.showInputDialog("cantidad de datos a crear ")); /**solicitamos cuantos datos nuevos deseamos crear*/
     File n= new File("Nombres.txt");  /**Declaramos la clase file para recibir archivos*/
     File p= new File("aPaternos.txt");
     File m= new File("aMaternos.txt");
